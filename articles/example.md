@@ -1,40 +1,9 @@
-# Pink Floyd - The Wall
-## Claudio Satriano
-### From [https://en.wikipedia.org/wiki/The_Wall](https://en.wikipedia.org/wiki/The_Wall)
+Album:I Am Easy to Find
+Artist: The national
+source: https://en.wikipedia.org/wiki/I_Am_Easy_to_Find_(album)
+I Am Easy to Find is the eighth studio album by American indie rock band The National, released on May 17, 2019, via 4AD.  The follow-up to the band's 2017 album, Sleep Well Beast, it was supported by the lead single, "You Had Your Soul with You", and accompanied by a short film of the same name, directed by Mike Mills and starring Alicia Vikander. Vikander is also featured on the album cover. A trailer was released for the companion film along with the announcement of the album.  A tour promoting the album began in June 2019.
+The bulk of the album was recorded at Long Pond studio in Hudson Valley, New York. Parts were recorded in other cities, including Paris, Berlin, Dublin, Cincinnati, Austin, and Brooklyn. The album and film, while having influenced each other, were essentially made separately. A press release stated that the album "is not the soundtrack" for the film; the idea for the album itself came after the film was shot.
 
-The Wall is the eleventh studio album by English rock band Pink Floyd, released
-in 1979 through Harvest and Columbia Records. Conceived during the In The Flesh
-tour, recording spanned nearly a year, from December 1978 to November 1979, and
-took place in France, England, New York, and Los Angeles. It was produced by Bob
-Erzin, who helped to refine the concept and bridge tensions during recording.
-Some of the outtakes from the recording sessions were used on the band's next
-album, The Final Cut (1983).
+The album features female vocalists including Lisa Hannigan, Sharon Van Etten, Mina Tindle, Gail Ann Dorsey, Kate Stables, and the Brooklyn Youth Chorus. 
 
-![cover](https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg)
-
-A rock opera and a concept record, its story explores Pink, a jaded rockstar
-that bassist Roger Waters modeled after himself and band founder Syd Barrett.
-Pink's life begins with the loss of his father during the Second World War and
-continues with abuse from his schoolteachers, an overprotective mother, and the
-breakdown of his marriage; all contribute to his eventual self-imposed isolation
-from society, symbolised by a wall. The band, who were then struggling with
-personal and financial difficulties, supported the idea. The Wall is the last
-album to feature Pink Floyd as a quartet; keyboardist Richard Wright was fired
-by Waters during production, but stayed on as a salaried musician. The record
-was promoted with three singles: "Another Brick in the Wall, Part 2", "Run Like
-Hell", and "Comfortably Numb", the first of which became the band's only number
-one single in the US. From 1980 to 1981, the group embarked on The Wall Tour,
-which was notable for its elaborate theatrical effects. The concept was later
-adapted into a feature film of the same name, directed by Alan Parker and
-released in 1982.
-
-The Wall received mixed reviews from critics upon its release, many of whom
-found its contents to be overblown and pretentious. Retrospectively, it is
-considered one of the greatest albums of all time, and is one of the most
-well-known concept albums. The record was a commercial success, reaching number
-one in the US (where it stayed for 15 weeks), and number three in the UK. As of
-2018, the album has sold over 24 million copies, the second best-selling in the
-band's catalog, as well as one of the best-selling of all time.
-
-> I think things like 'Comfortably Numb' were the last embers of mine and
-> Roger's ability to work collaboratively together. David Gilmour
+I Am Easy to Find was met with universal acclaim, receiving a score of 81 on Metacritic, the review aggregating site.Reviewing in his Substack-published "Consumer Guide" column, Robert Christgau said that "almost every track is open to substantive female input on a musical whole that feels consistently interactive and empathetic and also not so glum—even when you can’t pin down exact meanings, it makes love sound possible." More negative critics, such as The Observer's Phil Mongredien, complained about the album's flatness and inaccessibility.
